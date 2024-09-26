@@ -104,6 +104,14 @@ This work is currently under revision in an IEEE journal. The appropriate citati
 
 ---
 
+## Contact
+
+This repo is maintained by Bipul Neupane.
+Work email: bneupane@student.unimelb.edu.au
+Personal email: geomat.bipul@gmail.com
+
+---
+
 ## Acknowledgements
 
 The authors would like to acknowledge the creators of the **BONAI dataset** – the only dataset with annotations for roof, footprint, and offset segmentation. This dataset has been invaluable for advancing research in off-nadir aerial image segmentation. The authors also acknowledge the contributors of the SegmentationModelsPytorch library, TIMM database, and HuggingFace for providing a comprehensive Python package to train CNNs and ViTs.
