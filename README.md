@@ -117,5 +117,3 @@ Personal email: geomat.bipul@gmail.com
 The authors would like to acknowledge the creators of the **BONAI dataset** – the only dataset with annotations for roof, footprint, and offset segmentation. This dataset has been invaluable for advancing research in off-nadir aerial image segmentation. The authors also acknowledge the contributors of the SegmentationModelsPytorch library, TIMM database, and HuggingFace for providing a comprehensive Python package to train CNNs and ViTs.
 
 ---
-
-This README file introduces your project and provides comprehensive usage instructions, making it easier for others to understand and utilize your repository.
